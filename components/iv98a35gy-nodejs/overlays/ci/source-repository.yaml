@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iv98a35gy-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iv98a35gy-nodejs
